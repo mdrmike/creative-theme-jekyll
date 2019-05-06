@@ -1,9 +1,10 @@
 # Site settings
-title:
-email:
+title: MDR
+email: hi@MediaDoneRight.com
 description: > # this means to ignore newlines until "baseurl:"
+foobar blah blah blah
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://mdrmike.github.io/creative-theme-jekyll/" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
